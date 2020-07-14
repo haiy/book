@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+defaults:
+    - scope:
+        path: "assets/pdf"
+      values:
+        pdf: true
+    - scope:
+        path: "assets/reports"
+      values:
+        report: true
+    - scope:
+        path: "assets/dialogue_papers"
+      values:
+        dia: true
