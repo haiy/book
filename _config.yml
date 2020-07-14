@@ -12,3 +12,5 @@ defaults:
         path: "assets/dialogue_papers"
       values:
         dia: true
+google_analytics: G-0CJ2ZJYZGH
+
