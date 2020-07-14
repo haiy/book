@@ -1,4 +1,4 @@
-# [book](https://book.haihome.top)
+# [book](https://haihome.top/book)
 
 - [ml papers](ml.html)
 - [meeting reports](reports.html)
