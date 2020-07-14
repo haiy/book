@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 theme: jekyll-theme-cayman
 defaults:
     - scope:
@@ -13,6 +12,3 @@ defaults:
         path: "assets/dialogue_papers"
       values:
         dia: true
-=======
-theme: jekyll-theme-cayman
->>>>>>> 4ba29bd296130cac7ba54dcda6dc186209885fe6
